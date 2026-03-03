@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ademuyiwa Afeez 👋
+### Lead Architect at Solvix Laboratory
 
-<!--
-**celpha2svx/celpha2svx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI Researcher focused on the **Architecture** pillar of Solvix. I believe that Africa doesn't just need software; it needs new scientific foundations built for its unique constraints.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏛️ My Architecture Research
+*These are the "Minds" I am building in my personal lab.*
+- **Project [Name]:** A reasoning model for [X].
+- **Project [Name]:** Research into [Y].
+
+## 🚀 Solvix Implementation
+*I translate my research into these ecosystems at @Solvix-Lab:*
+- 🌊 **BlueCurrent:** Energy & Water
+- 💸 **FlowState:** Finance & Logistics
+- 🩺 **VitalPulse:** Health & Education
+- 📍 **OriginPoint:** Manufacturing & Agri
+
+---
+📫 **Connect with me:** [Link to Substack] | [Link to LinkedIn]
