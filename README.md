@@ -1,21 +1,20 @@
-# Hi, I'm Ademuyiwa Afeez 👋
-### Lead Architect at Solvix Laboratory
+# Hi, I'm Afeez Ademuyiwa 👋
 
-I am an AI Researcher focused on the **Architecture** pillar of Solvix. I believe that Africa doesn't just need software; it needs new scientific foundations built for its unique constraints.
+Independent hardware and AI researcher. Student at Obafemi Awolowo 
+University, Nigeria.
 
----
+I build from the ground up — starting at the processor level and 
+working upward through systems, security, and intelligence.
 
-## 🏛️ My Architecture Research
-*These are the "Minds" I am building in my personal lab.*
-- **Project [Name]:** A reasoning model for [X].
-- **Project [Name]:** Research into [Y].
+## Current Work
+- **Matrix-RISCV** — Custom MAC instruction for RISC-V, targeting 
+  memory-efficient ML on constrained hardware. 
+  [Paper preprint coming soon on arXiv]
 
-## 🚀 Solvix Implementation
-*I translate my research into these ecosystems at @Solvix-Lab:*
-- 🌊 **BlueCurrent:** Energy & Water
-- 💸 **FlowState:** Finance & Logistics
-- 🩺 **VitalPulse:** Health & Education
-- 📍 **OriginPoint:** Manufacturing & Agri
+## Research Interests
+Hardware architecture · ISA extensions · Systems for ML · 
+Low-resource AI · Security economics
 
----
-📫 **Connect with me:** [Link to Substack] | [Link to LinkedIn]
+## Belief
+Africa doesn't just need software. It needs people who understand 
+the full stack — from silicon to algorithm.
