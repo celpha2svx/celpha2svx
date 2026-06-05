@@ -48,10 +48,11 @@ What I build here is long-term and compounding.
 
 ## The Arc
 
+```
 Hardware → OS → Security → Intelligence
-   ↕
+     ↕
 Data Science → Financial Engineering → Quantitative AI
-
+```
 One arc builds the infrastructure. The other builds the applications.
 Eventually they meet.
 
