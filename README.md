@@ -1,64 +1,64 @@
 # Afeez Ademuyiwa
 
-**Hardware & AI Systems Engineer · Independent Researcher**  
-Obafemi Awolowo University, Nigeria · [ademuyiwaafeez077@gmail.com](mailto:ademuyiwaafeez077@gmail.com)
+Data Scientist · Systems Researcher · Builder  
+Obafemi Awolowo University, Nigeria · ademuyiwaafeez077@gmail.com
 
 ---
 
-I build from the bottom up.
+I work at two layers simultaneously.
 
-Not because it's the easiest path — because I believe you can't truly
-engineer intelligent systems without understanding the ground they run on.
-My work starts at the processor and works upward: instruction sets, memory,
-systems software, security, and finally intelligence.
+At the applied layer, I build data systems — statistical models, financial
+analytics, ML pipelines. Things that produce value and can be shipped.
 
-Most people accept hardware as a given. I treat it as a design space.
+At the research layer, I build from the ground up — processor extensions,
+intelligent OS primitives, code intelligence tools. Things that take years
+but change what's possible.
+
+These are not separate careers. The same thinking runs through both:
+*understand the constraints, then engineer around them.*
 
 ---
 
-## 🔬 Research
+## Data Science & Quantitative Engineering
+
+What I build here is practical and hirable.
+
+| Project | What it is | Stack |
+|---|---|---|
+| Sentinel Fraud Detection | Cloud-native fraud detection system — real-time transaction scoring with ML | Python · GCP · Jupyter |
+| Financial Engineering Curriculum | Working through quant finance from mathematical bedrock to trading systems | Python · NumPy · Pandas |
+
+Currently: WorldQuant University Data Science Lab · Building toward MSc Financial Engineering
+
+Skills: Python · Pandas · NumPy · Statistical modeling · Data pipelines · GCP
+
+---
+
+## Research
+
+What I build here is long-term and compounding.
 
 | Project | What it is | Status |
 |---|---|---|
-| **Matrix-RISCV** | Custom fused MAC instruction for RISC-V — reduces ML instruction fetch overhead by ~50% on memory-constrained hardware | [Live on GitHub](https://github.com/celpha2svx/matrix-riscv) · arXiv preprint incoming |
-| **Learned OS Primitives** | Embedding lightweight intelligence into kernel-level services — scheduling, prefetching, I/O — without rewriting the OS | Research phase |
-| **Security-Economics Interface** | Formalising CNA/CND/CNE as an economic triad — treating security architecture as a strategic layer, not a checklist | Design phase |
-| **Low-Validity Learning** | RL and meta-learning in non-stationary, adversarial environments — markets as the testbed, generalisation as the goal | Design phase |
+| Matrix-RISCV | Custom MAC instruction for RISC-V — 50% reduction in instruction count for ML workloads on constrained hardware | [Live](https://github.com/celpha2svx/matrix-riscv) · arXiv incoming |
+| Learned OS Primitives | Embedding lightweight ML into kernel-level services — scheduling, prefetching — without rewriting the OS | Research phase |
+| Solvix | Code intelligence tool — understands codebase structure, intent, and risk before any AI touches it. Tested on 31 real repos | Active build |
 
 ---
 
-## 🛠️ Engineering
+## The Arc
 
-I don't just research — I build things that run.
+Hardware → OS → Security → Intelligence
+   ↕
+Data Science → Financial Engineering → Quantitative AI
 
-- **RTL design** in Verilog — custom processor extensions, verified in simulation
-- **Systems programming** — Linux, cloud infrastructure (GCP), CLI tooling
-- **ML engineering** — model training, data pipelines, Python/Jupyter
-- **Full-stack** — when the project needs it
-
-If you need someone who can go from a whiteboard architecture to working
-code and back again — that's what I do.
+One arc builds the infrastructure. The other builds the applications.
+Eventually they meet.
 
 ---
 
-## 📍 The Arc
+## Let's Talk
 
-```
-Hardware (now) → OS → Security → Intelligence
-```
-
-Each layer informs the next. The goal is to build systems that are
-efficient at the physics level, robust at the systems level, defensible
-at the security level, and intelligent at the application level.
-
-This is not a portfolio of random projects.  
-It is one long argument, made in code.
-
----
-
-## 📫 Let's Talk
-
-Open to: research collaboration · engineering roles · funded projects · 
-just a good technical conversation.
+Open to: data science roles · research collaboration · engineering gigs · good technical conversations.
 
 [GitHub](https://github.com/celpha2svx) · [Email](mailto:ademuyiwaafeez077@gmail.com)
