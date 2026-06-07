@@ -1,65 +1,66 @@
-# Afeez Ademuyiwa
+<h1 align="center">Afeez Ademuyiwa</h1>
+<p align="center">
+  <strong>Data Scientist | Systems Researcher | Builder</strong><br>
+  <em>From statistical models to processor architecture.</em>
+</p>
 
-Data Scientist · Systems Researcher · Builder  
-Obafemi Awolowo University, Nigeria · ademuyiwaafeez077@gmail.com
-
----
-
-I work at two layers simultaneously.
-
-At the applied layer, I build data systems — statistical models, financial
-analytics, ML pipelines. Things that produce value and can be shipped.
-
-At the research layer, I build from the ground up — processor extensions,
-intelligent OS primitives, code intelligence tools. Things that take years
-but change what's possible.
-
-These are not separate careers. The same thinking runs through both:
-*understand the constraints, then engineer around them.*
+<p align="center">
+  <a href="https://github.com/celpha2svx">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/celpha2svx">LinkedIn</a> • 
+  <a href="mailto:ademuyiwaafeez077@gmail.com">Email</a>
+</p>
 
 ---
 
-## Data Science & Quantitative Engineering
+## About
 
-What I build here is practical and hirable.
+I build systems that are theoretically grounded and practically deployable. My work spans two core domains: Applied Intelligence (data science, fraud analytics, quantitative systems) and Foundational Systems (processor design, OS, developer tooling). 
 
-| Project | What it is | Stack |
-|---|---|---|
-| Sentinel Fraud Detection | Cloud-native fraud detection system — real-time transaction scoring with ML | Python · GCP · Jupyter |
-| Financial Engineering Curriculum | Working through quant finance from mathematical bedrock to trading systems | Python · NumPy · Pandas |
-
-Currently: WorldQuant University Data Science Lab · Building toward MSc Financial Engineering
-
-Skills: Python · Pandas · NumPy · Statistical modeling · Data pipelines · GCP
+Research Interests: Computer Architecture • RISC-V Extensions • Operating Systems • ML Systems • Financial Engineering • Quantitative AI
 
 ---
 
-## Research
+## Projects
 
-What I build here is long-term and compounding.
+### Data Science
 
-| Project | What it is | Status |
-|---|---|---|
-| Matrix-RISCV | Custom MAC instruction for RISC-V — 50% reduction in instruction count for ML workloads on constrained hardware | [Live](https://github.com/celpha2svx/matrix-riscv) · arXiv incoming |
-| Learned OS Primitives | Embedding lightweight ML into kernel-level services — scheduling, prefetching — without rewriting the OS | Research phase |
-| Solvix | Code intelligence tool — understands codebase structure, intent, and risk before any AI touches it. Tested on 31 real repos | Active build |
+Sentinel | Real-time Nigerian transaction fraud detection with real-time scoring. Achieved 96.7% AUC-ROC with SHAP-based explainability.  
+Python FastAPI XGBoost SHAP Google Cloud  
+[Live API Docs](https://alpha-7g3-sentinel-fraud-detection.hf.space/docs) • [Source Code](https://github.com/celpha2svx/sentinel-fraud-detection)
 
----
+### Systems Research
 
-## The Arc
+Matrix-RISCV | Custom RISC-V matrix multiplication extension for ML on constrained hardware. Achieved 50% fewer instructions optimized for edge environments. *(arXiv manuscript in prep)*  
+C RISC-V Assembly Computer Architecture  
+[Source Code](https://github.com/celpha2svx/matrix-riscv)
 
-```
-Hardware → OS → Security → Intelligence
-     ↕
-Data Science → Financial Engineering → Quantitative AI
-```
-One arc builds the infrastructure. The other builds the applications.
-Eventually they meet.
+### Developer Infrastructure
+
+Solvix | CLI for analyzing software systems before AI intervention. Evaluated on 31 real-world repos with an engineering-first approach.  
+Python CLI Static Analysis  
+[Source Code](https://github.com/celpha2svx/solvix)
 
 ---
 
-## Let's Talk
+## Current Focus
 
-Open to: data science roles · research collaboration · engineering gigs · good technical conversations.
+- WorldQuant University — Data Science Lab
+- Preparing for MSc in Financial Engineering
+- Advancing Matrix-RISCV research and developing Solvix into production
 
-[GitHub](https://github.com/celpha2svx) · [Email](mailto:ademuyiwaafeez077@gmail.com)
+---
+
+## Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| Languages | Python C C++ SQL |
+| Data & ML | Pandas NumPy Scikit-learn XGBoost SHAP FastAPI |
+| Systems | RISC-V Computer Architecture Operating Systems Linux |
+| Tools | Git GitHub Google Cloud Jupyter |
+
+---
+
+<p align="center">
+  <em>Open to data science roles, research collaborations, engineering projects, and technical conversations.</em>
+</p>
